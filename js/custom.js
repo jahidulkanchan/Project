@@ -21,6 +21,6 @@ document.onclick = function (e) {
 };
     //counter up
     $('.counter-up').counterUp({
-        delay: 20,
+        delay: 10,
         time: 1000
-        });
+    });
